@@ -1,5 +1,5 @@
 _repo: The-Bride-of-the-Nile-Volume-12_5528
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Egypt -- History -- Fiction'
+- GITenberg
 title: The Bride of the Nile — Volume 12
 url: http://www.gutenberg.org/ebooks/5528
